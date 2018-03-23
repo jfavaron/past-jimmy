@@ -1,0 +1,666 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uII2SWFkr8M8ltyy7oi7Lksk9e4.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e8306691ad78a574820af03d0f4066f3893933b2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tz7kwvqKENet2XCqoSwAduHKnxR.jpg" preview="com.plexapp.agents.imdb_fc2364879b50ad7492bc1a82bbd01b98657c228d" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c83SZ42MpwNMsT7YjjMYO6jr90M.jpg" preview="com.plexapp.agents.imdb_ba75fd813c5f946d3561006371c8c1cf14bc2892" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rFtsE7Lhlc2jRWF7SRAU0fvrveQ.jpg" preview="com.plexapp.agents.imdb_0ca60d6f87c4a9923f90248b3907cb5dac5e49ef" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/570qhjGZmGPrBGnfx70jcwIuBr4.jpg" preview="com.plexapp.agents.imdb_6cf70cfa6029805d0fb2bd1150b56a79f4530597" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vXIrvKadue7GdySiVh3huoQZiMi.jpg" preview="com.plexapp.agents.imdb_3cbbbdf3f74a32298a7b27692522296673dec1d3" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jIi7v8tiM5ORYPbXb30Th4kJnKd.jpg" preview="com.plexapp.agents.imdb_ff81302051b5cb0f85783560a5c624a1fd5fa951" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6tZ0Rc4e76VRsREpisbReD0bafh.jpg" preview="com.plexapp.agents.imdb_e6f125c0f1445cac64156a6e60470cbc1e9c1d2d" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yX3qt6cNeVYx9loRSLq1TZdQBQz.jpg" preview="com.plexapp.agents.imdb_4d32562b922a51a9958231527b14fa77db6457c0" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jWicStQZ0JzP5Gn5uOoKQXjNdP9.jpg" preview="com.plexapp.agents.imdb_ab5011b3c4f34c7e457f9c9af3f6366ac20ff2a1" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sxZllU78hMBfFKzLoVKMWPKgtpT.jpg" preview="com.plexapp.agents.imdb_0b180580c7149f49b277940585bef2e607ba859d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rTA7qg5CDoHdtGxLNghLCR7gLbC.jpg" preview="com.plexapp.agents.imdb_7938bf58128edd6de19e38e30125bed499da1a11" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6Qq4Ex4kQxoce5SsTBoLQ53dxx1.jpg" preview="com.plexapp.agents.imdb_03c9a0538dac9d7ae2d07a44c59c123892e7330b" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ryQrBiXbqr4ySZMMegxguiGrc0i.jpg" preview="com.plexapp.agents.imdb_6b7db8649d8d1d3dca6cadb39ff4bde83449db34" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4zmNJNQkugbalqJLnKp0wnlp8i3.jpg" preview="com.plexapp.agents.imdb_9db6a13faaa301c9c088094277df7723e1e3598d" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2rkpF9eNQNNTriPQk1Ncw1s46P2.jpg" preview="com.plexapp.agents.imdb_9e67f9c598d6fb48bfccd74bebdf76757ed28e34" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Battle for Loki's Scepter</title>
+      <end_time_offset>735000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Birth of Ultron</title>
+      <end_time_offset>1283000</end_time_offset>
+      <start_time_offset>735000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Avengers House Party</title>
+      <end_time_offset>1981000</end_time_offset>
+      <start_time_offset>1283000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Attack Aftermath</title>
+      <end_time_offset>2167000</end_time_offset>
+      <start_time_offset>1981000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Ultron Meers the Twins</title>
+      <end_time_offset>2520000</end_time_offset>
+      <start_time_offset>2167000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Mind Games</title>
+      <end_time_offset>3164000</end_time_offset>
+      <start_time_offset>2520000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Hulk vs. Hulkbuster</title>
+      <end_time_offset>3541000</end_time_offset>
+      <start_time_offset>3164000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Safe House</title>
+      <end_time_offset>4551000</end_time_offset>
+      <start_time_offset>3541000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Cradle Robbing</title>
+      <end_time_offset>5228000</end_time_offset>
+      <start_time_offset>4551000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Birthof the Vision</title>
+      <end_time_offset>5804000</end_time_offset>
+      <start_time_offset>5228000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>The Battle of Sokovia</title>
+      <end_time_offset>6875000</end_time_offset>
+      <start_time_offset>5804000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>"Is That the Best You Can Do?"</title>
+      <end_time_offset>7587000</end_time_offset>
+      <start_time_offset>6875000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>The New Avengers</title>
+      <end_time_offset>7868000</end_time_offset>
+      <start_time_offset>7587000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7868000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dTiVsuaTVTeGmvkhcyJvKp2A5kr.jpg</photo>
+      <role/>
+      <name>Joss Whedon</name>
+    </item>
+  </directors>
+  <duration>8460000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+  </genres>
+  <originally_available_at>2015-04-22</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_238cd625ec507f0ad1a986ff78cc4ed21c513098"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/16995J5R00I431Wzj0UfmgVqVPS.jpg" preview="com.plexapp.agents.imdb_4a6cda688ecdc33b70fe4df817758e4fd8b13463" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/semjLcYaBwdAjD1Fgcc5x9MhLXJ.jpg" preview="com.plexapp.agents.imdb_30f1f0de883ad4b4281e2f6d511b7fe0b89fb4ec" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/62UYrDBOuR07IZ0qefSUFkaWh3R.jpg" preview="com.plexapp.agents.imdb_9e9683206dde09f8d26f65743474767a57414088" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/26nNWk96R1FOy3RvbJ180i21oZC.jpg" preview="com.plexapp.agents.imdb_ab65431eb2c2776bf21f06f4741ea5d000ca4f80" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aOdpiWmZUZmOzEtepWmN1Uv9s0G.jpg" preview="com.plexapp.agents.imdb_976727cacee4f5665bf57a2ba57875e9abec12b2" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kGL8cXS6hqh0AXjKnSLMoG9Q0tS.jpg" preview="com.plexapp.agents.imdb_f03f527a06ca0d68f99d911041c2ee9be10982b8" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/flm510q6aFQ9dv4TJ77YG4T4yTp.jpg" preview="com.plexapp.agents.imdb_58a738220a8cbb218ad528e4d25859de208339a0" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/olpepR5i3dz7yNEHj3BnL1wws52.jpg" preview="com.plexapp.agents.imdb_4407cd9e2fd0fdb02a965900ddf7449782c996b7" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/khVrM5tHGcn81ZLeYSdWZqunh57.jpg" preview="com.plexapp.agents.imdb_181c6f195ff227d592553d354dd68ca4fe5dda60" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lBAvHoYuTjsZgLAWERFarEfRbGl.jpg" preview="com.plexapp.agents.imdb_3e02dc3307e6c83594c6b631a7631cb0f1d910ca" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xy58yNdO1M4FgoDZmkFTXmq2847.jpg" preview="com.plexapp.agents.imdb_089c094872e8c9db97d1a65bd6cb723026c1925f" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d1ROA2w9tiNTeiaFbsBKx56IKzX.jpg" preview="com.plexapp.agents.imdb_d14f1c5c561af4991db4568ede1240783c2c6bc9" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hSbIBwFvGhKIqYH3PVgIOUxSASf.jpg" preview="com.plexapp.agents.imdb_d7ece4cb042e98409d3f6e338975a03b83b5df45" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wDbHFDErhf0ExC65I3F6BVETAy5.jpg" preview="com.plexapp.agents.imdb_ef9f4bcb03c46f64ea9d12469e9f2613e5e62c22" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Aar0qPJIPAGjLIjXzoLWmRDpoyI.jpg" preview="com.plexapp.agents.imdb_35daef437f900590b6c855ffd49a0e6851ef497b" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AewbqQQT0FbcE358rcbopZ3zgDV.jpg</photo>
+      <role/>
+      <name>Kevin Feige</name>
+    </item>
+  </producers>
+  <rating>7.5</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.3</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>More does not necessarily equal better; here, more is just ... meh.</text>
+      <source>ChristyLemire.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://christylemire.com/avengers-age-of-ultron/</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="1">
+      <text>The sharp, interpersonal dramedy that made the first movie such a delight is again present in flashes, but not infrequently it is drowned out by the noisy, inevitable need to Save the World.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2015/05/avengers-age-of-ultron-is-too-much-of-a-good-thing/392015/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="2">
+      <text>For the most part, "Avengers: Age of Ultron" is the hard-charging, mind-boggling spectacle fans are looking for. Smash indeed.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2015/05/01/avengers-movie-review-hulk-thor-hawkeye-ultron/26658283/</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="3">
+      <text>World-saving is no longer a surprise to these characters. It's work. Grunt work. For them. For us.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://grantland.com/hollywood-prospectus/ultron-avengers-review/</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="4">
+      <text>It is, in short, more disposable than the mere mortal blockbusters it was designed to outpace. This should defy Marvel Studios mathematics. How can a movie with more stuff than its predecessors be less fun?</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.npr.org/2015/04/30/402823371/bigger-and-louder-than-ever-can-the-avengers-still-satisfy?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Andrew Lapin</author>
+    </item>
+    <item index="5">
+      <text>The thing's a behemoth. And as the franchise thunders on, it's also becoming more and more a bore.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20150501__Avengers__Age_of_Ultron___Sparks_of_quiet_humanity_amid_CGI_blasts.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="6">
+      <text>The amazing thing about Avengers: Age of Ultron is that it's reasonably enjoyable while feeling less like a movie than an epic sowing of seeds for multiple Marvel properties.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2015/04/movie-review-avengers-age-of-ultron.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="7">
+      <text>Age of Ultron disappoints not because it's irredeemably bad but because it fails to achieve the level of its predecessor in nearly every facet.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/reelviews/avengers-age-of-ultron</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="8">
+      <text>Writer-director Joss Whedon attempts to inject just enough human drama into these noisy proceedings to keep it from turning into a Transformers-style crashathon.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2015/0430/Avengers-Age-of-Ultron-is-semi-enjoyable-but-not-as-good-as-the-first</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="9">
+      <text>The film is a work of craft, from the actors like Mr. Downey, who can deliver a comic line with the timing of a mouse trap, to the editors, Jeffrey Ford and Lisa Lassek, upon whom so much of the movie's very elegant fluidity rests ...</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.wsj.com/articles/avengers-age-of-ultron-review-a-superpowered-spectacle-1430415826</link>
+      <author>John Anderson</author>
+    </item>
+    <item index="10">
+      <text>At this point the Marvel superhero movies are as machine-tooled as a Prius, and this one sticks closely to the blueprint that's made them box office titans.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>www.chicagoreader.com/chicago/avengers-age-of-ultron-an-imax-3d-experience/MovieTimes?oid=17129991</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="11">
+      <text>You can sense that Mr. Whedon, having helped build a universal earnings machine with the first "Avengers," has now struggled mightily, touchingly, to invest this behemoth with some life.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2015/05/01/movies/review-avengers-age-of-ultron-gets-the-superband-back-together.html?partner=rss&amp;emc=rss&amp;_r=0</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="12">
+      <text>By making the Avengers snarky rivals as well as brothers and sisters in arms, franchise Big Brain Joss Whedon injects exactly what such a noisy spectacle needs: a dollop of charm.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.guidelive.com/movie-reviews/2015/04/30/charm-humor-balance-mayhem-avengers-age-ultron-b</link>
+      <author>Chris Vognar</author>
+    </item>
+    <item index="13">
+      <text>As before, the greatest fun is in watching the original Avengers, all fine actors who've made the characters their own.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.seattletimes.com/entertainment/movies/avengers-age-of-ultron-fun-with-a-vengeance/</link>
+      <author>Moira MacDonald</author>
+    </item>
+    <item index="14">
+      <text>"Age of Ultron" has self-aware laughs, grandiose themes and the best effects that money can buy. But at this point, it will take true vision to plot the umpteen sequels without getting trapped in a time loop.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/in-age-of-ultron-the-avengers-get-humane/article_6ebcec68-f1cc-5291-8db9-b26d7548e23c.html</link>
+      <author>Joe Williams</author>
+    </item>
+    <item index="15">
+      <text>As he did in the first "Avengers," writer-director Joss Whedon avoids the fatal trap of comic-book self-seriousness, leavening a baggy, busy, overpopulated story with zippy one-liners, quippy asides and an overarching tone of jaunty good fun.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/avengers-age-of-ultron-gets-the-marvel-band-back-together/2015/04/29/ee6bb2e0-ee6f-11e4-8abc-d6aa3bad79dd_story.html</link>
+      <author>Ann Hornaday</author>
+    </item>
+    <item index="16">
+      <text>An entertaining package of characters and ideas that manages to be a whole lot more than the first film while also being a little bit less.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2015/04/30/avengers-age-of-ultron-is-noisy-confusing-fun-review-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/1YjdSym1jTG7xjHSI0yGGWEsw5i.jpg</photo>
+      <role>Tony Stark / Iron Man</role>
+      <name>Robert Downey Jr.</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/lrhth7yK9p3vy6p7AabDUM1THKl.jpg</photo>
+      <role>Thor Odinson</role>
+      <name>Chris Hemsworth</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/w5yqDZo2IZV0vsrsMWUqloNiutb.jpg</photo>
+      <role>Bruce Banner / Hulk</role>
+      <name>Mark Ruffalo</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/8CgFKCZJVwZxa1F88n8drEux0vT.jpg</photo>
+      <role>Steve Rogers / Captain America</role>
+      <name>Chris Evans</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/8EueDe6rPF0jQU4LSpsH2Rmrqac.jpg</photo>
+      <role>Natasha Romanoff / Black Widow</role>
+      <name>Scarlett Johansson</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/l6CxIOFCjF65298teEJd5mCnPDO.jpg</photo>
+      <role>Clint Barton / Hawkeye</role>
+      <name>Jeremy Renner</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg</photo>
+      <role>Ultron (voice)</role>
+      <name>James Spader</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg</photo>
+      <role>Nick Fury</role>
+      <name>Samuel L. Jackson</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/b1EVJWdFn7a75qVYJgwO87W2TJU.jpg</photo>
+      <role>James Rhodes / War Machine</role>
+      <name>Don Cheadle</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/iQrBTHUtKVI2kN4u0hRKQz667cx.jpg</photo>
+      <role>Pietro Maximoff / Quicksilver</role>
+      <name>Aaron Taylor-Johnson</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/8vgj3i5ByHUHP6p2jN2o5pcNbaL.jpg</photo>
+      <role>Wanda Maximoff / Scarlet Witch</role>
+      <name>Elizabeth Olsen</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/1zmr8C7TCqsoCjDVKJycVp2wWyf.jpg</photo>
+      <role>Jarvis (voice) / Vision</role>
+      <name>Paul Bettany</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/7TIENKNwDdKSuYqyTENKtCznkCG.jpg</photo>
+      <role>Maria Hill</role>
+      <name>Cobie Smulders</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/5VGGJ0Co8SC94iiedWb2o3C36T.jpg</photo>
+      <role>Sam Wilson / The Falcon</role>
+      <name>Anthony Mackie</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/vOgJFh3U5V9mWdavjGH9hESfnwj.jpg</photo>
+      <role>Peggy Carter</role>
+      <name>Hayley Atwell</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/d9NkfCwczP0TjgrjpF94jF67SK8.jpg</photo>
+      <role>Heimdall</role>
+      <name>Idris Elba</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/iwmPwZARlFIKOqwEVuYIgPOc4WX.jpg</photo>
+      <role>Laura Barton</role>
+      <name>Linda Cardellini</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/zSCU2agleLtJEvzj98jEesVhBxa.jpg</photo>
+      <role>Erik Selvig</role>
+      <name>Stellan Skarsgård</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/zYiS1KJKEoLstzFA3DV5gwszzSC.jpg</photo>
+      <role>Dr. Helen Cho</role>
+      <name>Claudia Kim</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/sAGn557s6oJ74SycAV2DPb26Vqn.jpg</photo>
+      <role>Strucker</role>
+      <name>Thomas Kretschmann</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg</photo>
+      <role>Ulysses Klaue / Klaw</role>
+      <name>Andy Serkis</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/rd40f4QpAUUne3hMaUhHrZtcK2c.jpg</photo>
+      <role>Madame B</role>
+      <name>Julie Delpy</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg</photo>
+      <role>Himself</role>
+      <name>Stan Lee</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/6aubyjy4zS8CCGEbWuHp8QgMhJv.jpg</photo>
+      <role>Dr. List</role>
+      <name>Henry Goodman</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Fortress Soldier</role>
+      <name>Chris Luca</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Strucker Mercenary</role>
+      <name>Brian Schaeffer</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/tokhoqjWuH0nIyAwPMYJVHqwKZh.jpg</photo>
+      <role>Zrinka</role>
+      <name>Dominique Provost-Chalkley</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/5R8RheJGkn7lY6qgiHvQ5YhRLpY.jpg</photo>
+      <role>Costel</role>
+      <name>Isaac Andrews</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Sokovian Acid Student</role>
+      <name>Gareth Kieran Jones</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Dr. Cho's Assistant</role>
+      <name>Chan Woo Lim</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Dr. Cho's Assistant</role>
+      <name>Minhee Yeo</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/6z6m3Lgy09RULs4JfryyhsGs4hI.jpg</photo>
+      <role>Klaue's Mercenary</role>
+      <name>Bentley Kalu</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/3FTgXt3Vy8vLaKK7E6kVviOBYgk.jpg</photo>
+      <role>Ballet Instructor</role>
+      <name>Julian Bleach</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/xeCWeES3Y7oRU6SYt2o5ULbBrB5.jpg</photo>
+      <role>Johannesburg Cop</role>
+      <name>Christopher Beasley</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Johannesburg Cop</role>
+      <name>Vuyo Dabula</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/cRNGFkW5saS0WrtusSZMAL3XVHB.jpg</photo>
+      <role>Johannesburg Driver</role>
+      <name>Nondumiso Tembe</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Johannesburg Onlooker</role>
+      <name>Kabelo Thai</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Johannesburg Onlooker</role>
+      <name>Lele Leowaba</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Johannesburg Onlooker</role>
+      <name>Mandla Gaduka</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Johannesburg Onlooker</role>
+      <name>Harriet Manamela</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Johannesburg Onlooker</role>
+      <name>Beulah Hashe</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Johannesburg Onlooker</role>
+      <name>Musca Kumalo</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Johannesburg Onlooker</role>
+      <name>Mathapelo September</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/uJ1EzaslDWPuihRwbWJwTQDsxja.jpg</photo>
+      <role>Johannesburg Elevator Passenger</role>
+      <name>Antony Acheampong</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Johannesburg Elevator Passenger</role>
+      <name>Chioma Anyanwu</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Cooper Barton</role>
+      <name>Ben Sakamoto</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/AlqJB5o6kLnBUYQCxEbmKir2rQt.jpg</photo>
+      <role>Lila Barton</role>
+      <name>Imogen Poynton</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/oRRWX6tdqsj9xlkbXUWnJF5cf6Q.jpg</photo>
+      <role>Lila Barton</role>
+      <name>Isabella Poynton</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/dprqeIfGxzB3zD4Rjj2OaANMSo7.jpg</photo>
+      <role>World Hub Tech</role>
+      <name>Ingvild Deila</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Korean Train Passenger</role>
+      <name>Sunny Yeo</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Korean Train Passenger</role>
+      <name>Namju Go</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Korean Train Passenger</role>
+      <name>Mina Kweon</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Korean Train Passenger</role>
+      <name>Earl T. Kim</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Korean Train Passenger</role>
+      <name>Arthur Lee</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Sokovian Family</role>
+      <name>Verity Hewlett</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Sokovian Family</role>
+      <name>Michael Matovski</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Sokovian Family</role>
+      <name>Alma Noce</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Sokovian Family</role>
+      <name>Riccardo Richetta</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Sokovian Woman</role>
+      <name>Constanza Ruff</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Tub Family Child</role>
+      <name>Monty Mclaren-Clark</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Sokovian Driver</role>
+      <name>Julia Krynke</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Sokovian SUV Driver</role>
+      <name>Tony Christensen</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Sokovian SUV Passenger</role>
+      <name>Ian Kay</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Sokovian Police Captain</role>
+      <name>Barry Aird</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/2dreez33YIDG2sWfHAzSS96yGd4.jpg</photo>
+      <role>Specialist Cameron Klein</role>
+      <name>Aaron Himelstein</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/iODZhVleWthSMNpCIl999hzy3B7.jpg</photo>
+      <role>Friday (voice)</role>
+      <name>Kerry Condon</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>Nathaniel Pietro Barton</role>
+      <name>Jaiden Stafford</name>
+    </item>
+    <item index="67">
+      <photo>http://image.tmdb.org/t/p/original/qHRXVqpzPiIcdiWigFKw7HyUL27.jpg</photo>
+      <role>Sokovian Citizen (uncredited)</role>
+      <name>Dilyana Bouklieva</name>
+    </item>
+    <item index="68">
+      <photo>http://image.tmdb.org/t/p/original/x8KKnvHyPvH16M6waAnY1OeCtA8.jpg</photo>
+      <role>Thanos (uncredited)</role>
+      <name>Josh Brolin</name>
+    </item>
+    <item index="69">
+      <photo>http://image.tmdb.org/t/p/original/rAuG4k7HXzDyQx4g0XoOlEMHZC9.jpg</photo>
+      <role>Student (uncredited)</role>
+      <name>Joti Nagra</name>
+    </item>
+    <item index="70">
+      <photo>http://image.tmdb.org/t/p/original/46fAvvECH3mNzszXD8evBdWjOza.jpg</photo>
+      <role>Dr. Taryl Jenkins (uncredited)</role>
+      <name>Nick W. Nicholson</name>
+    </item>
+    <item index="71">
+      <photo>http://image.tmdb.org/t/p/original/yvblj5nqxW7QOTnDWEooKLyGfB3.jpg</photo>
+      <role>Asgardian God (uncredited)</role>
+      <name>Daniel Westwood</name>
+    </item>
+    <item index="72">
+      <photo/>
+      <role>Citizen</role>
+      <name>Devin Koehler</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Captain America: The Winter Soldier</item>
+    <item index="1">Ant-Man</item>
+    <item index="2">Thor: The Dark World</item>
+    <item index="3">X-Men: Days of Future Past</item>
+    <item index="4">Captain America: Civil War</item>
+    <item index="5">The Amazing Spider-Man 2</item>
+    <item index="6">Captain America: The First Avenger</item>
+    <item index="7">Guardians of the Galaxy</item>
+    <item index="8">Thor</item>
+    <item index="9">Kingsman: The Secret Service</item>
+    <item index="10">Iron Man 2</item>
+    <item index="11">The Hobbit: The Battle of the Five Armies</item>
+    <item index="12">Furious 7</item>
+    <item index="13">Jurassic World</item>
+    <item index="14">Transformers: Age of Extinction</item>
+    <item index="15">The Avengers</item>
+    <item index="16">Mission: Impossible - Rogue Nation</item>
+    <item index="17">Teenage Mutant Ninja Turtles</item>
+    <item index="18">The Incredible Hulk</item>
+    <item index="19">Edge of Tomorrow</item>
+  </similar>
+  <studio>Marvel Studios</studio>
+  <summary>When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.</summary>
+  <tagline>A New Age Has Come.</tagline>
+  <tags/>
+  <themes/>
+  <title>Avengers: Age of Ultron</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dTiVsuaTVTeGmvkhcyJvKp2A5kr.jpg</photo>
+      <role/>
+      <name>Joss Whedon</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

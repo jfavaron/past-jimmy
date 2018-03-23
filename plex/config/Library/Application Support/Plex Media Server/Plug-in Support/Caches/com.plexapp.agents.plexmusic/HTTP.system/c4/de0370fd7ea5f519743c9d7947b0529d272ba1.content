@@ -1,0 +1,140 @@
+{
+    "name": "Zac Brown Band",
+    "mbid_id": "507226f4-0842-4f43-950e-81a7017230ec",
+    "albums": {
+        "d915ef00-7ef6-4fbf-a9b3-9e7ffbfd9dfa": {
+            "albumcover": [
+                {
+                    "id": "184325",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/albumcover/jekyll--hyde-566263aeca72b.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "12ad484b-db9c-4d20-afe5-12454bab8a81": {
+            "albumcover": [
+                {
+                    "id": "126734",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/albumcover/keep-me-in-mind-53996d1e1408a.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "0abd41cc-8d0d-428d-9be1-e76bf77af7e5": {
+            "albumcover": [
+                {
+                    "id": "126593",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/albumcover/uncaged-53969486aa12f.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "1823c4e1-52a1-40d2-b276-5439bc34dbcc": {
+            "albumcover": [
+                {
+                    "id": "126594",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/albumcover/you-get-what-you-give-53969718650df.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "77039",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/cdart/you-get-what-you-give-5155d9b7d93b6.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "2a6a7731-e832-38f5-8ed6-a821c9581755": {
+            "albumcover": [
+                {
+                    "id": "126595",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/albumcover/the-foundation-5396a98e0c613.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "96448",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/cdart/the-foundation-5223b35b4b9d3.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "ea4503ee-a8e4-4faf-8b59-64005679ec7e": {
+            "albumcover": [
+                {
+                    "id": "126596",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/albumcover/pass-the-jar-live-from-the-fabulous-fox-theater-in-atlanta-5396aad6c9843.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "9665226d-db20-4514-a7c8-8a5ee8db5d6f": {
+            "albumcover": [
+                {
+                    "id": "126597",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/albumcover/live-from-bonnaroo-5396ac2680b04.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "cd38b524-e0f8-4647-8709-ea9f7f1a67a5": {
+            "albumcover": [
+                {
+                    "id": "126598",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/albumcover/the-grohl-sessions-vol-1-5396ac5d15809.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "cfd1fe2a-8dad-4aef-949b-f0f183e941b6": {
+            "albumcover": [
+                {
+                    "id": "126639",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/albumcover/colder-weather-539749b61e61d.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "906e10be-f1c9-4d6a-8e17-059aca2dc1ce": {
+            "albumcover": [
+                {
+                    "id": "219032",
+                    "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/albumcover/welcome-home-591b3999d5ec8.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "musiclogo": [
+        {
+            "id": "54615",
+            "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/musiclogo/brown-zac-band-506755e69535d.png",
+            "likes": "0"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "54624",
+            "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/artistbackground/brown-zac-band-50675a547700e.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "54625",
+            "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/artistbackground/brown-zac-band-50675b1bb1c6f.jpg",
+            "likes": "0"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "74966",
+            "url": "https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/hdmusiclogo/brown-zac-band-5141d9259d6df.png",
+            "likes": "0"
+        }
+    ]
+}

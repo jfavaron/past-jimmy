@@ -1,0 +1,64 @@
+2018-03-23 16:55:56,237 (7f17bdd35700) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: 1046ba8 (Fri Mar 16 18:08:25 UTC 2018)
+2018-03-23 16:55:56,238 (7f17bdd35700) :  DEBUG (core:361) - Using the elevated policy
+2018-03-23 16:55:56,238 (7f17bdd35700) :  DEBUG (core:450) - Starting runtime component.
+2018-03-23 16:55:56,240 (7f17bdd35700) :  DEBUG (core:450) - Starting caching component.
+2018-03-23 16:55:56,241 (7f17bdd35700) :  DEBUG (core:450) - Starting data component.
+2018-03-23 16:55:56,241 (7f17bdd35700) :  DEBUG (core:450) - Starting networking component.
+2018-03-23 16:55:56,241 (7f17bdd35700) :  DEBUG (networking:284) - Loaded HTTP cookies
+2018-03-23 16:55:56,241 (7f17bdd35700) :  DEBUG (caching:108) - No info file found, trashing the cache folder
+2018-03-23 16:55:56,242 (7f17bdd35700) :  DEBUG (networking:452) - Setting the default network timeout to 20.0
+2018-03-23 16:55:56,243 (7f17bdd35700) :  DEBUG (core:450) - Starting localization component.
+2018-03-23 16:55:56,243 (7f17bdd35700) :  INFO (localization:409) - Setting the default locale to en-us
+2018-03-23 16:55:56,243 (7f17bdd35700) :  DEBUG (core:450) - Starting messaging component.
+2018-03-23 16:55:56,244 (7f17bdd35700) :  DEBUG (core:450) - Starting debugging component.
+2018-03-23 16:55:56,245 (7f17bdd35700) :  DEBUG (core:450) - Starting services component.
+2018-03-23 16:55:56,245 (7f17a5ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/com.plexapp.agents.lyricfind'
+2018-03-23 16:55:56,246 (7f17bdd35700) :  DEBUG (core:450) - Starting myplex component.
+2018-03-23 16:55:56,248 (7f17bdd35700) :  DEBUG (core:450) - Starting notifications component.
+2018-03-23 16:55:56,399 (7f17bdd35700) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.agents.lyricfind in namespace 'metadata'
+2018-03-23 16:55:56,405 (7f17bdd35700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2018-03-23 16:55:56,432 (7f17a5ffb700) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2018-03-23 16:55:56,432 (7f17bdd35700) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2018-03-23 16:55:56,434 (7f17a5ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2018-03-23 16:55:56,436 (7f17bdd35700) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2018-03-23 16:55:56,437 (7f17a4ff9700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400'
+2018-03-23 16:55:56,437 (7f17bdd35700) :  DEBUG (core:150) - Finished starting framework core
+2018-03-23 16:55:56,438 (7f17bdd35700) :  DEBUG (core:560) - Loading plug-in code
+2018-03-23 16:55:56,494 (7f17bdd35700) :  DEBUG (core:566) - Finished loading plug-in code
+2018-03-23 16:55:56,496 (7f17bdd35700) :  DEBUG (agentkit:1115) - Creating new agent class called LyricFindAlbumAgent
+2018-03-23 16:55:56,496 (7f17a4ff9700) :  DEBUG (core:538) - Machine identifier is a153a1f9c74adfb9299413a0bd766032ea511264
+2018-03-23 16:55:56,497 (7f17a4ff9700) :  DEBUG (core:539) - Server version is 1.12.1.4885-1046ba85f
+2018-03-23 16:55:56,497 (7f17bdd35700) :  DEBUG (agentkit:933) - Updating agent information: [{'media_types': ['Album'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.plexmusic', 'com.plexapp.agents.localmedia', 'com.plexapp.agents.lastfm'], 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'primary_provider': False, 'prefs': False, 'name': 'LyricFind'}]
+2018-03-23 16:55:56,498 (7f17bdd35700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo2CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0CjIKczI4CmNvbS5wbGV4YXBwLmFnZW50cy5seXJpY2ZpbmRzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNuczEyCmFjY2VwdHNfZnJvbW5zMTQKZmFsbGJhY2tfYWdlbnRyNApzMTQKY29udHJpYnV0ZXNfdG9yNQpzOQpsYW5ndWFnZXNiMXMyMApwZXJzaXN0X3N0b3JlZF9maWxlc2kwCnM3CnZlcnNpb25iMHMxNgpwcmltYXJ5X3Byb3ZpZGVyYjBzNQpwcmVmc3M5Ckx5cmljRmluZHM0Cm5hbWUxCnM1CkFsYnVtMwpzMjgKY29tLnBsZXhhcHAuYWdlbnRzLnBsZXhtdXNpY3MyOQpjb20ucGxleGFwcC5hZ2VudHMubG9jYWxtZWRpYXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtMQpzMgp4bnIwCg__'
+2018-03-23 16:55:56,548 (7f17bdd35700) :  INFO (core:611) - Started plug-in
+2018-03-23 16:55:56,549 (7f17bdd35700) :  DEBUG (socketinterface:160) - Starting socket server
+2018-03-23 16:55:56,552 (7f17bdd35700) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2018-03-23 16:55:56,554 (7f17bdd35700) :  INFO (socketinterface:184) - Socket server started on port 34061
+2018-03-23 16:55:56,555 (7f17bdd35700) :  INFO (pipeinterface:25) - Entering run loop
+2018-03-23 16:55:56,555 (7f17bdd35700) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
+2018-03-23 16:55:56,567 (7f17bdd35700) :  DEBUG (runtime:814) - Found route matching /:/prefixes
+2018-03-23 16:55:56,570 (7f17bdd35700) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 153 bytes
+2018-03-23 16:55:56,581 (7f1783fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.lyricfind/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCnhuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M1CkFsYnVtczEwCm1lZGlhX3R5cGU1CnMxCjhzOApwYXJlbnRJRHMxMApsb2NhbDovLzEyczQKZ3VpZGIxczUKZm9yY2VzMjkKY29tLnBsZXhhcHAuYWdlbnRzLmxvY2FsbWVkaWFzMTMKcHJpbWFyeV9hZ2VudHMyCjEyczIKaWRyMAo_
+2018-03-23 16:55:56,659 (7f1783fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.lyricfind/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCnhuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M1CkFsYnVtczEwCm1lZGlhX3R5cGU1CnMxCjhzOApwYXJlbnRJRHMxMApsb2NhbDovLzEyczQKZ3VpZGIxczUKZm9yY2VzMjkKY29tLnBsZXhhcHAuYWdlbnRzLmxvY2FsbWVkaWFzMTMKcHJpbWFyeV9hZ2VudHMyCjEyczIKaWRyMAo_
+2018-03-23 16:55:56,660 (7f1783fff700) :  INFO (agentkit:957) - Searching for matches for {'id': '12', 'guid': 'local://12', 'force': True, 'primary_agent': 'com.plexapp.agents.localmedia', 'parentID': '8'}
+2018-03-23 16:55:56,662 (7f1783fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/12/tree'
+2018-03-23 16:55:56,696 (7f1783fff700) :  DEBUG (accessor:68) - Creating a new read-only model access point for provider com.plexapp.agents.localmedia in namespace 'metadata'
+2018-03-23 16:55:56,710 (7f1783fff700) :  DEBUG (model:32) - Loading model with GUID local://12
+2018-03-23 16:55:56,717 (7f1783fff700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Albums/c/e00e816b0e8d924d73f12ab6d0966b088c57c7c.bundle/Contents/com.plexapp.agents.localmedia/Info.xml
+2018-03-23 16:55:56,721 (7f1783fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/8/tree'
+2018-03-23 16:55:56,742 (7f17a5ffb700) :  DEBUG (services:362) - Loaded services
+2018-03-23 16:55:56,755 (7f17a57fa700) :  DEBUG (services:438) - No shared code to load
+2018-03-23 16:55:56,760 (7f1783fff700) :  DEBUG (runtime:88) - Sending packed state data (109 bytes)
+2018-03-23 16:55:56,760 (7f1783fff700) :  DEBUG (runtime:924) - Response: [200] str, 300 bytes
+2018-03-23 16:55:56,774 (7f1783fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.lyricfind/messaging/function/X0FnZW50S2l0OlVwZGF0ZU1ldGFkYXRh/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMTAKczIKeG5zNApsYW5nYjFzNQpmb3JjZWIwczgKcGVyaW9kaWNzMgoxMnM0CmRiaWRpMApzNwp2ZXJzaW9uczcyCmNvbS5wbGV4YXBwLmFnZW50cy5wbGV4bXVzaWM6Ly9ncmFjZW5vdGUvYXJ0aXN0LzA1MjBBRTY5MDgyRjMyMDg%40bGFuZz1lbnMxMApwYXJlbnRHVUlEczEKOHM4CnBhcmVudElEczUKQWxidW1zMTAKbWVkaWFfdHlwZXMxMApsb2NhbDovLzEyczQKZ3VpZHM0Cm51bGxzMgppZHIwCg__
+2018-03-23 16:55:56,775 (7f1783fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.lyricfind/messaging/function/X0FnZW50S2l0OlVwZGF0ZU1ldGFkYXRh/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMTAKczIKeG5zNApsYW5nYjFzNQpmb3JjZWIwczgKcGVyaW9kaWNzMgoxMnM0CmRiaWRpMApzNwp2ZXJzaW9uczcyCmNvbS5wbGV4YXBwLmFnZW50cy5wbGV4bXVzaWM6Ly9ncmFjZW5vdGUvYXJ0aXN0LzA1MjBBRTY5MDgyRjMyMDg@bGFuZz1lbnMxMApwYXJlbnRHVUlEczEKOHM4CnBhcmVudElEczUKQWxidW1zMTAKbWVkaWFfdHlwZXMxMApsb2NhbDovLzEyczQKZ3VpZHM0Cm51bGxzMgppZHIwCg__
+2018-03-23 16:55:56,776 (7f1783fff700) :  DEBUG (model:32) - Loading model with GUID local://12
+2018-03-23 16:55:56,777 (7f1783fff700) :  ERROR (model:205) - Cannot read model from /config/Library/Application Support/Plex Media Server/Metadata/Albums/c/e00e816b0e8d924d73f12ab6d0966b088c57c7c.bundle/Contents/com.plexapp.agents.lyricfind
+2018-03-23 16:55:56,777 (7f1783fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/12/tree'
+2018-03-23 16:55:56,785 (7f1783fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/lyricfind/search?reqtype=default&searchtype=track&limit=100&output=json&artist=Zac%20Brown%20Band&album=From%20Elizabeth'
+2018-03-23 16:56:16,806 (7f1783fff700) :  DEBUG (threadkit:234) - Starting a parallel task set named MatchLyrics with 1 tasks
+2018-03-23 16:56:16,807 (7f17a57fa700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/lyricfind/search?reqtype=default&searchtype=track&limit=100&output=json&artist=Zac%20Brown%20Band&track=Chicken%20Fried'
+2018-03-23 16:56:16,955 (7f1783fff700) :  DEBUG (threadkit:244) - Parallel task set MatchLyrics ended
+2018-03-23 16:56:16,958 (7f1783fff700) :  DEBUG (model:229) - Serializing to /config/Library/Application Support/Plex Media Server/Metadata/Albums/c/e00e816b0e8d924d73f12ab6d0966b088c57c7c.bundle/Contents/com.plexapp.agents.lyricfind/Info.xml
+2018-03-23 16:56:16,959 (7f1783fff700) :  DEBUG (runtime:88) - Sending packed state data (109 bytes)
+2018-03-23 16:56:16,960 (7f1783fff700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes

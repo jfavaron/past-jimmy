@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Artist id="gracenote/artist/0520AE69082F3208">
+  <rating/>
+  <art>
+    <item external="True" url="https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/artistbackground/brown-zac-band-50675a547700e.jpg" preview="49cf68469c2cc9101b41f052ae8b1d4d42c1e124" sort_order="01"/>
+    <item external="True" url="https://assets.fanart.tv/fanart/music/507226f4-0842-4f43-950e-81a7017230ec/artistbackground/brown-zac-band-50675b1bb1c6f.jpg" preview="2e2836abc077c8403b65aaceeb51aa8f3c1d3625" sort_order="02"/>
+  </art>
+  <themes/>
+  <duration/>
+  <genres>
+    <item index="0">Contemporary Country</item>
+    <item index="1">Country &amp; Western</item>
+  </genres>
+  <title>Zac Brown Band</title>
+  <rating_count/>
+  <collections/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <audience_rating/>
+  <posters>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/572c4fe01f7c49acc99cc43ef28948fa.png" media="f2b4f84cc41c105be01d33e4bec2587cf8890545" sort_order="01"/>
+    <item external="True" url="http://music.plex.tv/pixogs/d6/A-1484583-1246973980.jpeg" media="378403301daa99cb5f1e2e5517bcb99d195ae748" sort_order="03"/>
+    <item external="True" url="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/522F/D1A1/C3AB/18B7_xlarge_front.jpg?cid=4563968" media="84c1a2818068660d0e51e1dca798b0ee5e8d2d8c" sort_order="04"/>
+  </posters>
+  <albums/>
+  <countries>
+    <item index="0">United States</item>
+  </countries>
+  <title_sort/>
+  <original_title/>
+  <summary>Three-time GRAMMY winners and multi-platinum artists Zac Brown Band have become one of music's most heralded acts. The band's three platinum-selling albums, Uncaged, You Get What You Give, and The Foundation have sold over seven million copies total and produced a historic series of eleven #1 hit singles. In 2014, Zac Brown Band performed for two million fans including a sold out, two-night stand at Fenway Park, a packed show at Wrigley Field and a Veteran's Day performance with Bruce Springsteen and Dave Grohl on the National Mall in Washington, DC. ZBB releases ‘JEKYLL + HYDE’ April 28 and kicks off the tour May 1. Preorder the album here. This marks the first release through the band's new label partnership on Southern Ground Artists/John Varvatos Records/Big Machine Label Group/Republic Records. Zac Brown Band is managed by ROAR, a Beverly Hills-based artist and brand management company. The band is also represented by top talent agency CAA, public relations firm Shore Fire Media and strategic digital marketing agency Girlilla Marketing.  Read more on Last.fm. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply</summary>
+  <reviews/>
+  <similar>
+    <item index="0">Eric Church</item>
+    <item index="1">Kenny Chesney</item>
+    <item index="2">Darius Rucker</item>
+    <item index="3">Dierks Bentley</item>
+    <item index="4">Billy Currington</item>
+    <item index="5">Luke Bryan</item>
+    <item index="6">Jake Owen</item>
+    <item index="7">Brad Paisley</item>
+    <item index="8">Jason Aldean</item>
+    <item index="9">Blake Shelton</item>
+    <item index="10">Tim McGraw</item>
+    <item index="11">Florida Georgia Line</item>
+    <item index="12">Lee Brice</item>
+    <item index="13">Toby Keith</item>
+    <item index="14">Chris Young</item>
+    <item index="15">Cole Swindell</item>
+    <item index="16">Keith Urban</item>
+    <item index="17">Thomas Rhett</item>
+    <item index="18">Old Dominion</item>
+    <item index="19">Frankie Ballard</item>
+  </similar>
+  <concerts>
+    <item index="0">
+      <city>Fayetteville</city>
+      <title>Carolina Country Music Fest 2018</title>
+      <url>http://www.songkick.com/festivals/1240878-carolina-country-music-fest/id/31281084-carolina-country-music-fest-2018?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Burroughs &amp; Chapin Pavilion Place</venue>
+      <date>2018-06-07 00:00:00</date>
+    </item>
+    <item index="1">
+      <city>Lincoln</city>
+      <title>Zac Brown Band at Pinnacle Bank Arena (June 8, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456534-zac-brown-band-at-pinnacle-bank-arena?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Pinnacle Bank Arena</venue>
+      <date>2018-06-08 00:00:00</date>
+    </item>
+    <item index="2">
+      <city>Sioux Falls</city>
+      <title>Zac Brown Band at Denny Sanford Premier Center (June 9, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456554-zac-brown-band-at-denny-sanford-premier-center?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Denny Sanford Premier Center</venue>
+      <date>2018-06-09 00:00:00</date>
+    </item>
+    <item index="3">
+      <city>Boston / Cambridge</city>
+      <title>Zac Brown Band at Fenway Park (June 14, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456574-zac-brown-band-at-fenway-park?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Fenway Park</venue>
+      <date>2018-06-14 00:00:00</date>
+    </item>
+    <item index="4">
+      <city>Boston / Cambridge</city>
+      <title>Zac Brown Band at Fenway Park (June 15, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456579-zac-brown-band-at-fenway-park?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Fenway Park</venue>
+      <date>2018-06-15 00:00:00</date>
+    </item>
+    <item index="5">
+      <city>Baltimore</city>
+      <title>Zac Brown Band at Hersheypark (June 22, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456604-zac-brown-band-at-hersheypark?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Hersheypark</venue>
+      <date>2018-06-22 00:00:00</date>
+    </item>
+    <item index="6">
+      <city>Rochester</city>
+      <title>Zac Brown Band at Lakeview Amphitheater (June 23, 2018)</title>
+      <url>http://www.songkick.com/concerts/32458259-zac-brown-band-at-lakeview-amphitheater?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Lakeview Amphitheater</venue>
+      <date>2018-06-23 00:00:00</date>
+    </item>
+    <item index="7">
+      <city>Buffalo</city>
+      <title>Zac Brown Band at Darien Lake Amusement Park (June 24, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456629-zac-brown-band-at-darien-lake-amusement-park?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Darien Lake Amusement Park</venue>
+      <date>2018-06-24 00:00:00</date>
+    </item>
+    <item index="8">
+      <city>Atlanta</city>
+      <title>Zac Brown Band with OneRepublic at Suntrust Park (June 30, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456644-zac-brown-band-at-suntrust-park?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Suntrust Park</venue>
+      <date>2018-06-30 00:00:00</date>
+    </item>
+    <item index="9">
+      <city>Toronto</city>
+      <title>Zac Brown Band at Rogers Centre (July 13, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456664-zac-brown-band-at-rogers-centre?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Canada</country>
+      <venue>Rogers Centre</venue>
+      <date>2018-07-13 00:00:00</date>
+    </item>
+    <item index="10">
+      <city>Detroit</city>
+      <title>Zac Brown Band with OneRepublic at Comerica Park (July 14, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456674-zac-brown-band-at-comerica-park?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Comerica Park</venue>
+      <date>2018-07-14 00:00:00</date>
+    </item>
+    <item index="11">
+      <city>Philadelphia</city>
+      <title>Zac Brown Band at BB&amp;T Pavilion (July 19, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456679-zac-brown-band-at-bb-and-t-pavilion?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>BB&amp;T Pavilion</venue>
+      <date>2018-07-19 00:00:00</date>
+    </item>
+    <item index="12">
+      <city>Philadelphia</city>
+      <title>Zac Brown Band at BB&amp;T Pavilion (July 20, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456689-zac-brown-band-at-bb-and-t-pavilion?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>BB&amp;T Pavilion</venue>
+      <date>2018-07-20 00:00:00</date>
+    </item>
+    <item index="13">
+      <city>Washington</city>
+      <title>Zac Brown Band at Nationals Park (July 27, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456719-zac-brown-band-at-nationals-park?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Nationals Park</venue>
+      <date>2018-07-27 00:00:00</date>
+    </item>
+    <item index="14">
+      <city>New York</city>
+      <title>Zac Brown Band with OneRepublic at Citi Field (July 28, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456734-zac-brown-band-at-citi-field?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Citi Field</venue>
+      <date>2018-07-28 00:00:00</date>
+    </item>
+    <item index="15">
+      <city>New York</city>
+      <title>Zac Brown Band with OneRepublic at Citi Field (July 29, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456754-zac-brown-band-at-citi-field?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Citi Field</venue>
+      <date>2018-07-29 00:00:00</date>
+    </item>
+    <item index="16">
+      <city>Akron</city>
+      <title>Zac Brown Band at Blossom Music Center (August 2, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456784-zac-brown-band-at-blossom-music-center?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Blossom Music Center</venue>
+      <date>2018-08-02 00:00:00</date>
+    </item>
+    <item index="17">
+      <city>Indianapolis</city>
+      <title>Zac Brown Band with Darrell Scott and The O'Connor Family Band at Ruoff Mortgage Music Center (August 3, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456824-zac-brown-band-at-ruoff-mortgage-music-center?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Ruoff Mortgage Music Center</venue>
+      <date>2018-08-03 00:00:00</date>
+    </item>
+    <item index="18">
+      <city>Cincinnati</city>
+      <title>Zac Brown Band with Leon Bridges at Great American Ball Park (August 4, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456834-zac-brown-band-at-great-american-ball-park?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Great American Ball Park</venue>
+      <date>2018-08-04 00:00:00</date>
+    </item>
+    <item index="19">
+      <city>Twin Cities</city>
+      <title>Zac Brown Band at Target Field (August 10, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456854-zac-brown-band-at-target-field?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Target Field</venue>
+      <date>2018-08-10 00:00:00</date>
+    </item>
+    <item index="20">
+      <city>Milwaukee</city>
+      <title>Zac Brown Band at Alpine Valley Music Theatre (August 11, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456884-zac-brown-band-at-alpine-valley-music-theatre?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Alpine Valley Music Theatre</venue>
+      <date>2018-08-11 00:00:00</date>
+    </item>
+    <item index="21">
+      <city>Milwaukee</city>
+      <title>Zac Brown Band at Alpine Valley Music Theatre (August 12, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456899-zac-brown-band-at-alpine-valley-music-theatre?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Alpine Valley Music Theatre</venue>
+      <date>2018-08-12 00:00:00</date>
+    </item>
+    <item index="22">
+      <city>Seattle</city>
+      <title>Zac Brown Band with OneRepublic at Safeco Field (August 31, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456904-zac-brown-band-at-safeco-field?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Safeco Field</venue>
+      <date>2018-08-31 00:00:00</date>
+    </item>
+    <item index="23">
+      <city>Snowmass Village</city>
+      <title>JAS Aspen Snowmass Labor Day Experience 2018</title>
+      <url>http://www.songkick.com/festivals/1448549-jas-aspen-snowmass-labor-day-experience/id/32673289-jas-aspen-snowmass-labor-day-experience-2018?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Snowmass Town Park</venue>
+      <date>2018-08-31 00:00:00</date>
+    </item>
+    <item index="24">
+      <city>Snowmass Village</city>
+      <title>Zac Brown Band, The Record Company, and Gary Clark Jr. with Jas Aspen Snowmass at Snowmass Town Park (September 2, 2018)</title>
+      <url>http://www.songkick.com/concerts/32808799-zac-brown-band-at-snowmass-town-park?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Snowmass Town Park</venue>
+      <date>2018-09-02 00:00:00</date>
+    </item>
+    <item index="25">
+      <city>Charlotte</city>
+      <title>Zac Brown Band at PNC Music Pavilion (September 13, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456929-zac-brown-band-at-pnc-music-pavilion?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>PNC Music Pavilion</venue>
+      <date>2018-09-13 00:00:00</date>
+    </item>
+    <item index="26">
+      <city>Raleigh</city>
+      <title>Zac Brown Band at Coastal Credit Union Music Park at Walnut Creek (September 14, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456944-zac-brown-band-at-coastal-credit-union-music-park-at-walnut-creek?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Coastal Credit Union Music Park at Walnut Creek</venue>
+      <date>2018-09-14 00:00:00</date>
+    </item>
+    <item index="27">
+      <city>Norfolk</city>
+      <title>Zac Brown Band at Veterans United Home Loans Amphitheater (September 15, 2018)</title>
+      <url>http://www.songkick.com/concerts/32456949-zac-brown-band-at-veterans-united-home-loans-amphitheater?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Veterans United Home Loans Amphitheater</venue>
+      <date>2018-09-15 00:00:00</date>
+    </item>
+    <item index="28">
+      <city>SF Bay Area</city>
+      <title>Eagles with Zac Brown Band at AT&amp;T Park (September 20, 2018)</title>
+      <url>http://www.songkick.com/concerts/32413129-eagles-at-at-and-t-park?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>AT&amp;T Park</venue>
+      <date>2018-09-20 00:00:00</date>
+    </item>
+    <item index="29">
+      <city>San Diego</city>
+      <title>Eagles with Zac Brown Band and Doobie Brothers at Petco Park (September 22, 2018)</title>
+      <url>http://www.songkick.com/concerts/32413139-eagles-at-petco-park?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Petco Park</venue>
+      <date>2018-09-22 00:00:00</date>
+    </item>
+  </concerts>
+</Artist>

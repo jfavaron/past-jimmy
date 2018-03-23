@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/0520AE69082F3208?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/522F/D1A1/C3AB/18B7_xlarge_front.jpg?cid=4563968" parentTitle="Zac Brown Band" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6AB2/0109/BE6F/F498_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Atlantic / Home Grown / Southern Ground / Big Picture" type="album" title="The Foundation" summary="" index="1" ratingCount="0" year="2007" leafCount="0" viewedLeafCount="0">
+<Genre tag="Country &amp; Western" />
+<Genre tag="Contemporary Country" />
+<Genre tag="General Contemporary Country" />
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310729-7D197A2478371E264D9DC584C6FBEBF5?lang=en" type="track" title="Toes" summary="" index="1" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310730-FA3F27734AD2FF94B3BE8417503FB782?lang=en" type="track" title="Whatever It Is" summary="" index="2" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310731-EBAD7A12AD831062D2F467978269E705?lang=en" type="track" title="Jolene" summary="" index="3" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310732-3FD97CC536DAE6CB2D984AB5670F8E8D?lang=en" type="track" title="Where The Boat Leaves From" summary="" index="4" ratingCount="0">
+<Mood tag="Arousing Groove" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310733-FD9607D97447DBCBCE487917FB398E32?lang=en" type="track" title="It&#39;s Not OK" summary="" index="5" ratingCount="0">
+<Mood tag="Ramshackle" />
+<Mood tag="Rollicking" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310734-3E1540BF59B627230D266EE1002AEBCC?lang=en" type="track" title="Free" summary="" index="6" ratingCount="0">
+<Mood tag="Wistful" />
+<Mood tag="Forlorn" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310735-49D97CB9C907FFAB2756DC87056222DD?lang=en" type="track" title="Chicken Fried" summary="" index="7" ratingCount="0">
+<Mood tag="Gritty" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310736-CF38EAFBC1DDAC09F1D8C3404773D036?lang=en" type="track" title="Mary" summary="" index="8" ratingCount="0">
+<Mood tag="Exuberant" />
+<Mood tag="Festive" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310737-2E7AE8374B6D1C65017F146BAA92DA27?lang=en" type="track" title="Different Kind Of Fine" summary="" index="9" ratingCount="0">
+<Mood tag="Ramshackle" />
+<Mood tag="Rollicking" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310738-95D7B0EFC52DAA9824B148D4FF818B8F?lang=en" type="track" title="Highway 20 Ride" summary="" index="10" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/137310728-20AE69A371205F2D6898BBFE6674EBDA/137310739-D9FE1E29BCB2F790DB6898784CAF9CA2?lang=en" type="track" title="Sic &#39;Em On A Chicken" summary="" index="11" ratingCount="0">
+<Mood tag="Soulful" />
+<Mood tag="Easygoing" />
+</Track>
+</Directory>
+</MediaContainer>

@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt0048280">
+  <rating>8.9</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/osSsQ4QWXS7Flu3y39QqP924Lud.jpg" preview="540a4ca0cafa99ffdf5d55c299ad64def39b1728" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hApUKp9Vqn0iSpgF1NbZkKteLQ.jpg" preview="6c9b31a1a92398662096c4c516a76aa9e8222ba8" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pfIfzobExY66SG8TtFneL0WRnME.jpg" preview="c382263da2724999d3340e029668455c61fc0a1c" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/98Gi6TauCtoQAJOIoEsnBBVTLQC.jpg" preview="f41068de4c8cd15b04064c6e5e4fcaaa0423b29a" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dU9zwf2mcG1PCTlo9af2JaXIuCB.jpg" preview="80c11ccfec1b3dffddbb9e74043d206963e96fc7" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jeVuEgwAttOYc0xhpzjPnIqIYPk.jpg" preview="0d9a58d31eb2b8f1ce1dbe9e7006607f05dcd804" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zZoD1JsXQ7UQmGNfJKG2Ibwj7Sw.jpg" preview="a05846eed4dd153cf332b4552252743f52af1359" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3C6b0gs0NHKQIpRNBvahW9VPgQ4.jpg" preview="5a8acdfc03476532fa3658715ae26a0dac0b20f0" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xMuB99iwummjaPxQCQUhG2vLUFp.jpg" preview="062e9f4643075ea6629c2441053cab0c05247ca6" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bY3CyhBJy0fwrxZ2cSH9GnebWJk.jpg" preview="d8db55f5f98f1a817f26c3f004f388f8c002fea6" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iJ8qphdIigcntg3JGpZGyd8f5Yn.jpg" preview="100b42f6846beb75d59ade6709833c5c813af94b" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qxyhfKGOiUdWkbjlyGPaRi03bln.jpg" preview="c66b121fe72a4926eebd99192a1dd9c69bef998e" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ssNPHUrxpPZHqsbgLUP7sBVpWQQ.jpg" preview="d646bfaf6fddacfec0a2dec3f342314a355abdb3" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fLbbS2epKCMgAIIcc3D5h2bUbww.jpg" preview="42e046ed126b186aaaf79021c2f77193beb07b46" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zNMUxtEEGTKF5GSRVX1YUOIxehl.jpg" preview="1825023a55a88cea3e0c12e2b988eade337a70aa" sort_order="15"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Ward Greene</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Erdman Penner</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/umaANl0jfZwnytLvyJetUPXHFkK.jpg</photo>
+      <role/>
+      <name>Don DaGradi</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/cEXiizAz9vUew2T4Xu0tOz7tbzI.jpg</photo>
+      <role/>
+      <name>Ralph Wright</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>"Peace on Earth"</title>
+      <end_time_offset>216000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Settling Down for the Night</title>
+      <end_time_offset>596000</end_time_offset>
+      <start_time_offset>216000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Lady Gets a Collar</title>
+      <end_time_offset>882000</end_time_offset>
+      <start_time_offset>596000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Other Side of the Tracks</title>
+      <end_time_offset>1124000</end_time_offset>
+      <start_time_offset>882000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>A Sad Day for Lady</title>
+      <end_time_offset>1383000</end_time_offset>
+      <start_time_offset>1124000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Tramp's Point of View</title>
+      <end_time_offset>1653000</end_time_offset>
+      <start_time_offset>1383000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Lady Wonders, "What Is a Baby?"</title>
+      <end_time_offset>1748000</end_time_offset>
+      <start_time_offset>1653000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>"La La La"</title>
+      <end_time_offset>1965000</end_time_offset>
+      <start_time_offset>1748000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Strange Visitors ("the Saiameses Cat Song")</title>
+      <end_time_offset>2152000</end_time_offset>
+      <start_time_offset>1965000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Lady Runs Off</title>
+      <end_time_offset>2420000</end_time_offset>
+      <start_time_offset>2152000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>An Eager Beaver Saves the Day</title>
+      <end_time_offset>2607000</end_time_offset>
+      <start_time_offset>2420000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Tramp Takes Lady Around Town</title>
+      <end_time_offset>2808000</end_time_offset>
+      <start_time_offset>2607000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Spaghetti for Two ("Bella Notte")</title>
+      <end_time_offset>2982000</end_time_offset>
+      <start_time_offset>2808000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>The Next Morning</title>
+      <end_time_offset>3220000</end_time_offset>
+      <start_time_offset>2982000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>The Dog Pound</title>
+      <end_time_offset>3333000</end_time_offset>
+      <start_time_offset>3220000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Lady in the Pound</title>
+      <end_time_offset>3504000</end_time_offset>
+      <start_time_offset>3333000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>"He's A Tramp"</title>
+      <end_time_offset>3652000</end_time_offset>
+      <start_time_offset>3504000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Lady's Shame</title>
+      <end_time_offset>3883000</end_time_offset>
+      <start_time_offset>3652000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>A Rat in the House</title>
+      <end_time_offset>3940000</end_time_offset>
+      <start_time_offset>3883000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Tramp to the Rescue</title>
+      <end_time_offset>4196000</end_time_offset>
+      <start_time_offset>3940000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Trusty on the Trail</title>
+      <end_time_offset>4361000</end_time_offset>
+      <start_time_offset>4196000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Domestic Life</title>
+      <end_time_offset>4564756</end_time_offset>
+      <start_time_offset>4361000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>1955</year>
+  <duration>4560000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Drama</item>
+    <item index="4">Family</item>
+    <item index="5">Romance</item>
+  </genres>
+  <title>Lady and the Tramp</title>
+  <tagline>She's from the leash and license set... he's footloose and collar free!</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Erdman Penner</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/mrcVG49U2PVm1LpPMmwBtn5ZzOh.jpg</photo>
+      <role/>
+      <name>Walt Disney</name>
+    </item>
+  </producers>
+  <audience_rating>8.0</audience_rating>
+  <studio>Walt Disney Productions</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mgAuk3KRqUZ2vToBXUSKOXXrxMa.jpg" preview="b42ee0e4f22ae8a8c9475601c04d045785d582b2" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AqQpqEn33UYExlAoWA02Hizb2lc.jpg" preview="ededfcef41ff221558db1dfb90b9fcf953c7a1fd" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/YdAcxnG6QP4bw0rr66cHqyVqY3.jpg" preview="275eb419068b77abffb0332c3b9e757d8d271929" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7qa2IqWK6JGK9KZtz4Y8yoijGfu.jpg" preview="28a9dfe94c64cdd9407c0fa7a779dfa1caa8c315" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jC386Fd9IzmQsyQRyT3mBTJY0xq.jpg" preview="fc1749dd0476314c9cf14050db501f21b1762dfc" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rwQQRnHYIU8FeA8OXwhCXkhJB68.jpg" preview="7980a95bed8dc5f321f03e0f4e9a021119b44fb9" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mTcZ50hfk6Uh36SKfW3Jijy5dqE.jpg" preview="db76ea8efef2e25ddf298c2ddecf85351da1a4b7" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/miKRRzYs0CJvIG80sH02u9rdghI.jpg" preview="9c7dfcdba2e3bed4e00827de77b7239e08fd980e" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6DrAacGn51PG8p948dQ8Kpd57gN.jpg" preview="2f9cb16b5fcd3a0dec07c5358b806feaba7edd79" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1P6NmaPZNFEgdtpYlYBUJa0LOip.jpg" preview="896625c16a916c8d50d8058543b2fcf9830b291a" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/KyjHeua5CuBYDK2egnP5y6RWuX.jpg" preview="7e8959dadb3c66c0ff9382cef319d3c6fd9215d3" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vvNjtmJwylTan9WhAYllOVrD0bY.jpg" preview="3a2d64c883d3245120406aa6f95520797496f53e" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5i8W49J4nFiJaRUscaYMuVhKdBa.jpg" preview="a61dc5211090545a2d981e23e671b1e1e81a8bb5" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3Yc8f8ERgdrTy0Zd6HyUDe000hF.jpg" preview="15df36427609f0a4b824d5f758db19ee1e7fd444" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7yb579FdaA6MG0SwO4lzAL0uJZi.jpg" preview="83175cc0c255d6fed11d5ce018520b1e05a9aa9a" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AvNwwsKKRMBTHDdd9KKsdmwrng5.jpg" preview="322f9a7ade8b96d3d68ca8b78cf81ccbb3376dc1" sort_order="16"/>
+  </posters>
+  <originally_available_at>1955-06-16</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dtil2nERiDJjmVtvE1oS6YL3Q9W.jpg</photo>
+      <role>Darling / Si / Am / Peg (voice)</role>
+      <name>Peggy Lee</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/cK7NjpqJmjaFTT52vwAq9bYH2VA.jpg</photo>
+      <role>Lady (voice)</role>
+      <name>Barbara Luddy</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/qwVxQaSTgOmpOb6JfflhWor4nDu.jpg</photo>
+      <role>Tramp (voice)</role>
+      <name>Larry Roberts</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/ljYjNdijPQ97NELZ1wopGriWsUu.jpg</photo>
+      <role>Jock / Bull / Policeman at Zoo / Dachsie / Joe (voice)</role>
+      <name>Bill Thompson</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/dXIjn8ZsTNBBiiA0rQ0uWDqg2ey.jpg</photo>
+      <role>Trusty (voice)</role>
+      <name>Bill Baucom</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/Auz7e6JA1bZoQrWyvnLJkuHtavH.jpg</photo>
+      <role>Beaver (voice)</role>
+      <name>Stan Freberg</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/uUu5xXqN1x00nuXzv2x84cAWLqu.jpg</photo>
+      <role>Aunt Sarah (voice)</role>
+      <name>Verna Felton</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/cXx3mTZkv8DavNfCwTilOMSp77r.jpg</photo>
+      <role>Boris (voice)</role>
+      <name>Alan Reed</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/gd5xgniY8Ex6pEghzD1rZf1wMrD.jpg</photo>
+      <role>Tony (voice)</role>
+      <name>George Givot</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/uL8UjbVwrKXGpMJ22nITyTSbHjU.jpg</photo>
+      <role>Toughy / Professor / Pedro (voice)</role>
+      <name>Dal McKennon</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/aZncFY7lKKI9NfX8i6VupJc41ZI.jpg</photo>
+      <role>Jim Dear / Dog Catcher (voice)</role>
+      <name>Lee Millar</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/zfvBnWCAjiL5bpyjAjJkUtIhJYs.jpg</photo>
+      <role>Dogs (voice)</role>
+      <name>The Mellomen</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>G</content_rating>
+  <original_title/>
+  <summary>Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.</summary>
+  <reviews>
+    <item index="0">
+      <text>Walt Disney has for so long parlayed gooey sentiment and stark horror into profitable cartoons that most moviegoers are apt to be more surprised than disappointed to discover that the combination somehow does not work this time.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.time.com/time/magazine/article/0,9171,807375,00.html?promoid=googlep</link>
+      <author></author>
+    </item>
+    <item index="1">
+      <text>The wider canvas and extra detail work reportedly meant an additional 30% in negative cost. It was a sound investment.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117792400.html?categoryid=31&amp;cs=1</link>
+      <author>Variety Staff</author>
+    </item>
+    <item index="2">
+      <text>Disney's imagination seems at a low ebb, saddled with a shrunken, excessively naturalistic style in line with the diminished possibilities of postwar animation, and not yet graced by the inspiration that would redeem that style in Sleeping Beauty.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://onfilm.chicagoreader.com/movies/briefs/5113_LADY_AND_THE_TRAMP.html</link>
+      <author>Dave Kehr</author>
+    </item>
+    <item index="3">
+      <text>Happily the cameo lowlife, an excellent manic beaver, the famously villainous Siamese, and classic songs rescue the film from dumb animal sentiment.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/80002/lady_and_the_tramp.html</link>
+      <author>Geoff Andrew</author>
+    </item>
+    <item index="4">
+      <text>The sentimentality is mighty, and the use of the CinemaScope size does not make for any less awareness of the thickness of the goo.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://movies.nytimes.com/movie/review?res=9507E1DB113EE63BBC4C51DFB066838E649EDE&amp;partner=Rotten+Tomatoes</link>
+      <author>Bosley Crowther</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tirfI2HLxHZUpls0UpXuCoPrf63.jpg</photo>
+      <role/>
+      <name>Clyde Geronimi</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/iQgvspjL7upXGHSG6EbOuzBMg3Y.jpg</photo>
+      <role/>
+      <name>Wilfred Jackson</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/xeyWJsFlMtgjyfZnnElMnc6qFF6.jpg</photo>
+      <role/>
+      <name>Hamilton Luske</name>
+    </item>
+  </directors>
+  <banners/>
+  <similar>
+    <item index="0">Pinocchio</item>
+    <item index="1">Bambi</item>
+    <item index="2">Dumbo</item>
+    <item index="3">One Hundred and One Dalmatians</item>
+    <item index="4">Sleeping Beauty</item>
+    <item index="5">Cinderella</item>
+    <item index="6">Peter Pan</item>
+    <item index="7">The Aristocats</item>
+    <item index="8">Alice in Wonderland</item>
+    <item index="9">The Little Mermaid</item>
+    <item index="10">The Hunchback of Notre Dame</item>
+    <item index="11">Snow White and the Seven Dwarfs</item>
+    <item index="12">The Jungle Book</item>
+    <item index="13">Pocahontas</item>
+    <item index="14">The Fox and the Hound</item>
+    <item index="15">Tarzan</item>
+    <item index="16">Robin Hood</item>
+    <item index="17">The Sword in the Stone</item>
+    <item index="18">Lilo &amp; Stitch</item>
+    <item index="19">Hercules</item>
+  </similar>
+</Movie>

@@ -1,0 +1,506 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fjtubCiWjRrNdUKK5awrmdjrNfP.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_69ae364fffe5ed3c0dd9b4fd25cccc5c44026ca1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/weHFwmv6PmaGMq7nc10cx3hZYlF.jpg" preview="com.plexapp.agents.imdb_e872d3baddb4c6341047a304f7a1b63b6f19b3f7" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5UW7k7V7vP1ytrYNux4oT6L0Jdc.jpg" preview="com.plexapp.agents.imdb_86a11d8b1f99243ba29b7c6aca96850ca191513a" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5b643KUd9vnq43LbNGoWgcMjhSo.jpg" preview="com.plexapp.agents.imdb_266f5420ada14aa96949c3613a94a0c26df2116a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gbX0MFVhIR2gzvhqjKaUTBf4yiR.jpg" preview="com.plexapp.agents.imdb_a7c51b176a6b6fd6bd93b46b602d2c576e1c11df" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sGbLTX63RP9oM2np8AfvjBJI8Et.jpg" preview="com.plexapp.agents.imdb_69191cb0d29b95f3c22fd4f1b593672ca1417ae1" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rjmKmcD4E5KMHYG1GY8BAMSqu3k.jpg" preview="com.plexapp.agents.imdb_258b6c5134343b5b7c68d83fa608e6c64dc40b6e" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uC2avdAWdurJtj4lTzt7H9jPbd2.jpg" preview="com.plexapp.agents.imdb_e254479bc17ed3c4306631e4cbc0294048a710aa" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pxxJtHZB6peCwC1H5cbq25VXJ8b.jpg" preview="com.plexapp.agents.imdb_2ef535f4f31a25d5c19bbcfa3e7aa8bd522ad2d1" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1ShBoCfmovJXug1Oit6s7m7Tqzh.jpg" preview="com.plexapp.agents.imdb_478665796e7cf385deea24177bdc73526645f8d8" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uMwoB5L1QzvZiZ0iTj3h5REPMzK.jpg" preview="com.plexapp.agents.imdb_4a861f050daf7c13d4905ffd52a6bf9cf4dafa1d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7wsPYsC07rv4eKjbHWoosNSwf9D.jpg" preview="com.plexapp.agents.imdb_6a33c2cf7ca1becbea2f0e5c0ce673d440a05b9d" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7OyhoZvI373sFBaELd4dxbDFnk2.jpg" preview="com.plexapp.agents.imdb_155d627098bb61b4e6406f73d9377c3e8c25c3f2" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ar4ualmjUcyuNczshn16IOGmcKD.jpg" preview="com.plexapp.agents.imdb_3fd298e73c234b7445af270296d83bfa712e4d6c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yBG40phSvXUqSwHP2wOGQX101tJ.jpg" preview="com.plexapp.agents.imdb_e715922a38f454ab10f3f337d2c95863b9b40d35" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nl52bu5CxjEIt8KTj4iTDjLeZw2.jpg" preview="com.plexapp.agents.imdb_3d3574b4b16665eff3acdc1ca271e54c0b8bf6bd" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Logo/Sentencing</title>
+      <end_time_offset>128000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Main Title</title>
+      <end_time_offset>272000</end_time_offset>
+      <start_time_offset>128000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Tv Takeover</title>
+      <end_time_offset>510000</end_time_offset>
+      <start_time_offset>272000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Crossing Wires &amp; Mom</title>
+      <end_time_offset>609000</end_time_offset>
+      <start_time_offset>510000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Kate Plays Dirty Pool</title>
+      <end_time_offset>810000</end_time_offset>
+      <start_time_offset>609000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>The Phreak...&amp; Joey</title>
+      <end_time_offset>898000</end_time_offset>
+      <start_time_offset>810000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Outsourcing Kate</title>
+      <end_time_offset>1087000</end_time_offset>
+      <start_time_offset>898000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>A New Leak in Town</title>
+      <end_time_offset>1344000</end_time_offset>
+      <start_time_offset>1087000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Back at Cyberdelia</title>
+      <end_time_offset>1537000</end_time_offset>
+      <start_time_offset>1344000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Joey Hacks the Plague</title>
+      <end_time_offset>1807000</end_time_offset>
+      <start_time_offset>1537000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>At Lord Nikon's</title>
+      <end_time_offset>1934000</end_time_offset>
+      <start_time_offset>1807000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Joey Gets Busted</title>
+      <end_time_offset>2019000</end_time_offset>
+      <start_time_offset>1934000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Leonardo Da Virus</title>
+      <end_time_offset>2376000</end_time_offset>
+      <start_time_offset>2019000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Zero Cool Discovered</title>
+      <end_time_offset>2647000</end_time_offset>
+      <start_time_offset>2376000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>When Crash Meets Burn</title>
+      <end_time_offset>2905000</end_time_offset>
+      <start_time_offset>2647000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Profiling Dade</title>
+      <end_time_offset>2963000</end_time_offset>
+      <start_time_offset>2905000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>"Risk Is Good"/the Bet</title>
+      <end_time_offset>3261000</end_time_offset>
+      <start_time_offset>2963000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>The Dress and the Dream</title>
+      <end_time_offset>3433000</end_time_offset>
+      <start_time_offset>3261000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>"the New World Order"</title>
+      <end_time_offset>3501000</end_time_offset>
+      <start_time_offset>3433000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Phreak &amp; the Fuzz</title>
+      <end_time_offset>3740000</end_time_offset>
+      <start_time_offset>3501000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Kate Comes Over</title>
+      <end_time_offset>3876000</end_time_offset>
+      <start_time_offset>3740000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Plague Threatens Dade</title>
+      <end_time_offset>4067000</end_time_offset>
+      <start_time_offset>3876000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>"It's A Worm"</title>
+      <end_time_offset>4332000</end_time_offset>
+      <start_time_offset>4067000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Kamikaze Kate</title>
+      <end_time_offset>4601000</end_time_offset>
+      <start_time_offset>4332000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Discovering Da Virus</title>
+      <end_time_offset>4698000</end_time_offset>
+      <start_time_offset>4601000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Razor &amp; Blade</title>
+      <end_time_offset>4934000</end_time_offset>
+      <start_time_offset>4698000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Hack the Planet</title>
+      <end_time_offset>5134000</end_time_offset>
+      <start_time_offset>4934000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>A New Virus</title>
+      <end_time_offset>5469000</end_time_offset>
+      <start_time_offset>5134000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Getting the Worm</title>
+      <end_time_offset>5557000</end_time_offset>
+      <start_time_offset>5469000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Nabbed By Feds</title>
+      <end_time_offset>5721000</end_time_offset>
+      <start_time_offset>5557000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Cereal's Tv Debut</title>
+      <end_time_offset>5885000</end_time_offset>
+      <start_time_offset>5721000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>The Swim/End Credits</title>
+      <end_time_offset>6310000</end_time_offset>
+      <start_time_offset>5885000</start_time_offset>
+    </item>
+    <item index="32">
+      <title>End of File</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6310000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/citetzG3VlJ402NcaWicUHffxfl.jpg</photo>
+      <role/>
+      <name>Iain Softley</name>
+    </item>
+  </directors>
+  <duration>6420000</duration>
+  <genres>
+    <item index="0">Comedy</item>
+    <item index="1">Crime</item>
+    <item index="2">Drama</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <originally_available_at>1995-09-14</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uu62T87qkLkapeuu7ArlnQ6tAap.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_b381a9e7af53d4ccd25af263f2764bd4894ada59"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hNjxJbejPHSmKVidHQ9ZHaC0Z7r.jpg" preview="com.plexapp.agents.imdb_1797adc388b2d980577fb81846becc43d276e811" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/edXMTECoAxOoU5CFBBj89pHHemU.jpg" preview="com.plexapp.agents.imdb_fc00376c14ead2d14af8ed7d0fd0f7f2a32a5b38" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2dUR2VFFc7qa5Ps1xmYB1sds8qN.jpg" preview="com.plexapp.agents.imdb_afaad10b3ec99724ea877f0b0b6dd71242b63d05" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qkF7onyb3cso88bSwBYfiKusvMP.jpg" preview="com.plexapp.agents.imdb_a951692dba8d5196c9112d7493bbc1a404dc440d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bojzaltLeiuIMKxnjNw2de5j8nk.jpg" preview="com.plexapp.agents.imdb_50d1f16afcc73d15cd2635b17e787dc77736171c" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xF4f8IYtdezkFWY2y66XAUwJrb3.jpg" preview="com.plexapp.agents.imdb_dbb34a4cdc50683ff768e63d6f08124c87bc0dd1" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y7iBfacvd04OLpRVHf20v6Qveq0.jpg" preview="com.plexapp.agents.imdb_057587c15b3e1290e2d8fb9927ad7b7940e31f63" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lcCCNbI8WLTahYMTWrRnTawLcI8.jpg" preview="com.plexapp.agents.imdb_3c4ce239a59b5c9180a36cad9c2af21386619ba2" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/b6TPwj6rr2weVmQJ6Y4gkRSalHB.jpg" preview="com.plexapp.agents.imdb_e648ca66a8c4cc5b779565ae5220c8246e72b973" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i6i10l4cwFXdYLHI3fjsOTT2dWy.jpg" preview="com.plexapp.agents.imdb_2c622be65bd628760e5ec47006245cfef8cbfe54" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yG78sXT346NiFQdCgUqgVAlHjzf.jpg" preview="com.plexapp.agents.imdb_6dc8e6689c77ac6befd0125c9935aa4c538869dd" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qGVPSsR5gJ2nqx9lJiR88KeSaMA.jpg" preview="com.plexapp.agents.imdb_ceb1ea880e8e12afd345f5cc987d37aabbf75a61" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8KTHdJPl32mLTpY7EjvQL1r3bq2.jpg" preview="com.plexapp.agents.imdb_5d16963dfd591b79446fb985c5b40e2e946b6309" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i1bZKMhN3XjnUO5SAwXcmOhFNNv.jpg" preview="com.plexapp.agents.imdb_b359429004c673bcf9269cc496028ac812ca8a46" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wjnZ5g51cGJLqosFV2RhQRlegcv.jpg" preview="com.plexapp.agents.imdb_8209e20c08b0bf05dabd84e23f1974aa481d7fc9" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/gNkcdQLpzV8C27bAc2vlLAiaeKx.jpg</photo>
+      <role/>
+      <name>Ralph Winter</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Michael Peyser</name>
+    </item>
+  </producers>
+  <rating>3.2</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>6.8</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Hackers isn't a very good movie, but it's a darn sight more fun than The Net.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.philly.com/1995-09-15/entertainment/25715879_1_hackers-information-highway-dade-murphy</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="1">
+      <text>After the mechanics of the thriller plot start to kick in, the film drags. And when it's time for the big cyber-showdown, we're stuck, once again, with footage of frantic typing.</text>
+      <source>Orlando Sentinel</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://articles.orlandosentinel.com/1995-09-15/entertainment/9509120480_1_hackers-iain-softley-computer</link>
+      <author>Jay Boyar</author>
+    </item>
+    <item index="2">
+      <text>This is a movie that sums up the worst of the computer era: zapping you with techno-cliches and trapping you in constant visual crash and burn.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://articles.chicagotribune.com/1995-09-15/entertainment/9509150110_1_hackers-computer-moniker-movie</link>
+      <author>Michael Wilmington</author>
+    </item>
+    <item index="3">
+      <text>The story is negligible, but it offers the same order of fun as a good rock video: the marriage of images and music.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/arts/reviews/film/hackers_softley</link>
+      <author>Bruce Diones</author>
+    </item>
+    <item index="4">
+      <text>What's most grating about Hackers, however, is the guileless way the movie buys in to the computer-kid-as-elite-rebel mystique currently being peddled by magazines like Wired.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ew.com/ew/article/0,,298899,00.html</link>
+      <author>Owen Gleiberman</author>
+    </item>
+    <item index="5">
+      <text>Without being any sort of miracle, this engaging and lively exploitation fantasy-thriller about computer hackers, anarchistic in spirit, succeeds at just about everything The Net failed to.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/hackers/Film?oid=2010214</link>
+      <author>Jonathan Rosenbaum</author>
+    </item>
+    <item index="6">
+      <text>There is a great deal more style than substance here.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.variety.com/review/VE1117904423.html?categoryid=31&amp;cs=1</link>
+      <author>Joe Leydon</author>
+    </item>
+    <item index="7">
+      <text>The sappy ending's hard to take, but the on-line showdown between The Plague, the Secret Service and the united worldwide community of hackers is nail-biting.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/71616/hackers.html</link>
+      <author/>
+    </item>
+    <item index="8">
+      <text>It gives you more insight into the minds of Hollywood hacks than of computer hackers.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://articles.latimes.com/1995-09-15/entertainment/ca-46090_1_computer-nerds</link>
+      <author>David Kronke</author>
+    </item>
+    <item index="9">
+      <text>How do you make typing look exciting?</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/hackersrbrown_c02d3d.htm</link>
+      <author>Joe Brown</author>
+    </item>
+    <item index="10">
+      <text>Tirelessly modish, hyper-glossy, super-superficial. It's also cacophonous. And, for all of its drum-beating for brain power, dumb.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/hackersrhinson_c02d40.htm</link>
+      <author>Hal Hinson</author>
+    </item>
+    <item index="11">
+      <text>The movie is well directed, written and acted, and while it is no doubt true that in real life no hacker could do what the characters in this movie do, it is no doubt equally true that what hackers can do would not make a very entertaining movie.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/hackers-1995</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="12">
+      <text>What's uncovered beneath the flashy skin is an old-fashioned, film-by-numbers thriller.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=1758</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="13">
+      <text>What it lacks in substance and plausibility it makes up in inventive imagery and deft shadings of a world of scheming cyberpunks.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1995/09/15/DD9369.DTL</link>
+      <author>Peter Stack</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/70oZd4dPWNAibagHJvRU1Tf9e6h.jpg</photo>
+      <role>Dade Murphy / 'Crash Override' / 'Zero Cool'</role>
+      <name>Jonny Lee Miller</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/6tocswK39SrSjZIRDaTpVyPxDz8.jpg</photo>
+      <role>Kate Libby / 'Acid Burn'</role>
+      <name>Angelina Jolie</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/irD0iVNTmR0kEkVTZmKTuZejbGH.jpg</photo>
+      <role>Joey Pardella</role>
+      <name>Jesse Bradford</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/gJsQkX20g0ABquHqVpBJzMXR2JF.jpg</photo>
+      <role>Emmanuel Goldstein / 'Cereal Killer'</role>
+      <name>Matthew Lillard</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/pZb3RDVxDNJAOaBHwa078Z4FJiO.jpg</photo>
+      <role>Ramon Sanchez / 'Phantom Phreak'</role>
+      <name>Renoly Santiago</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/TutpOyw0A6FF5hEoFDYseI2EVN.jpg</photo>
+      <role>Eugene Belford / 'The Plague' / Mr. Babbage</role>
+      <name>Fisher Stevens</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/iy3Qgqap1U1GRqNzjoX2mFwdqD3.jpg</photo>
+      <role>Lauren Murphy</role>
+      <name>Alberta Watson</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/lYWBLjfpeZS84FhwzrBWFMe3c3C.jpg</photo>
+      <role>Paul Cook / 'Lord Nikon'</role>
+      <name>Laurence Mason</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/8khTSZIrHEMbBiH6HSAOzOnnbmB.jpg</photo>
+      <role>Margo</role>
+      <name>Lorraine Bracco</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/uOsldo9Pkl0E79UbIXX5tZZmC8F.jpg</photo>
+      <role>S.S. Agent Richard Gill</role>
+      <name>Wendell Pierce</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/tAmpD16aVzWbs8evbCFaed9perN.jpg</photo>
+      <role>S.S. Agent Bob</role>
+      <name>Michael Gaston</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/b6E5BCQkOXlxT1E4nHRyOpehuYU.jpg</photo>
+      <role>S.S. Agent Ray</role>
+      <name>Marc Anthony</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/zmAaXUdx12NRsssgHbk1T31j2x9.jpg</photo>
+      <role>Hal</role>
+      <name>Penn Jillette</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/3E923psf5uA65CuZ950wm1AIvv0.jpg</photo>
+      <role>Blade</role>
+      <name>Peter Y. Kim</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/gl2V5VUrtSNjCRu9cXnBMbe9GjI.jpg</photo>
+      <role>Razor</role>
+      <name>Darren Lee</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/wpXe8frHJpXsEB1Flivc3cNeM7F.jpg</photo>
+      <role>Laura</role>
+      <name>Liza Walker</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/48gzgQgYtLHl9TofYJI0DzzD4Bf.jpg</photo>
+      <role>Duke Ellingson</role>
+      <name>Bob Sessions</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/fbWPbYlBQjWtXGBYdZo8HKL2f1j.jpg</photo>
+      <role>Curtis</role>
+      <name>Ethan Browne</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>S.S. Agent, Seattle</role>
+      <name>Blake Willett</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/oCE8F39RJGjiFJQyuO6g2t6gi0p.jpg</photo>
+      <role>Young Dade Murphy / 'Zero Cool'</role>
+      <name>Max Ligosh</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/gsdPXYq79DOVCiukTOEQwloLRXk.jpg</photo>
+      <role>2nd V.P.</role>
+      <name>Jeff Harding</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/l1o0j6oWzdVX3gxxpumLNq3nK42.jpg</photo>
+      <role>Attorney</role>
+      <name>Felicity Huffman</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/tIeoVH2KHg7VzNNVaBWhbc37T8h.jpg</photo>
+      <role>Michael Murphy</role>
+      <name>Paul Klementowicz</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/5OrwrlLIrFZcNyP4wdduDdxazt1.jpg</photo>
+      <role>Denise</role>
+      <name>Denise George</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/azg75yqYcEz8LNJa70oyjnMho86.jpg</photo>
+      <role>Jock</role>
+      <name>William DeMeo</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Johnny Mnemonic</item>
+    <item index="1">The Net</item>
+    <item index="2">Antitrust</item>
+    <item index="3">Sneakers</item>
+    <item index="4">Takedown</item>
+    <item index="5">Payback</item>
+    <item index="6">Money Train</item>
+    <item index="7">Get Shorty</item>
+    <item index="8">Mallrats</item>
+    <item index="9">It Could Happen to You</item>
+    <item index="10">The Cell</item>
+    <item index="11">The Mighty Ducks</item>
+    <item index="12">Hudson Hawk</item>
+    <item index="13">Murder at 1600</item>
+    <item index="14">Dogma</item>
+    <item index="15">Eraser</item>
+    <item index="16">The Thirteenth Floor</item>
+    <item index="17">Revenge of the Nerds</item>
+    <item index="18">Pushing Tin</item>
+    <item index="19">Wayne's World 2</item>
+  </similar>
+  <studio>United Artists</studio>
+  <summary>Along with his new friends, a teenager who was arrested by the US Secret Service and banned from using a computer for writing a computer virus discovers a plot by a nefarious hacker, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.</summary>
+  <tagline>There is no right or wrong, only fun and boring</tagline>
+  <tags/>
+  <themes/>
+  <title>Hackers</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Rafael Moreu</name>
+    </item>
+  </writers>
+  <year>1995</year>
+</Movie>
