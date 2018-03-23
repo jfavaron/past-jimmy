@@ -1,0 +1,14 @@
+Mar 23, 2018 15:14:24.749 [0x7f0026bfe700] INFO - Plex Media Server v1.12.1.4885-1046ba85f - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 ubuntu - GMT -06:00
+Mar 23, 2018 15:14:24.750 [0x7f0026bfe700] INFO - Linux version: 4.13.0-36-generic (#40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018), language: C
+Mar 23, 2018 15:14:24.750 [0x7f0026bfe700] INFO - Processor AMD FX(tm)-6300 Six-Core Processor             
+Mar 23, 2018 15:14:24.750 [0x7f0026bfe700] INFO - /usr/lib/plexmediaserver/Plex Media Server
+Mar 23, 2018 15:14:24.748 [0x7f0032b05800] DEBUG - BPQ: [Idle] -> [Starting]
+Mar 23, 2018 15:14:24.750 [0x7f0032b05800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Mar 23, 2018 15:14:24.753 [0x7f0032b05800] INFO - SQLITE3:0x10, 283, recovered 660 frames from WAL file /config/Library/Application Support/Plex Media Server/Plug-in Support/Databases/com.plexapp.plugins.library.db-wal
+Mar 23, 2018 15:14:24.818 [0x7f0032b05800] DEBUG - Running migrations.
+Mar 23, 2018 15:14:24.819 [0x7f0032b05800] DEBUG - ChangestampAllocator: initialized to 0
+Mar 23, 2018 15:14:24.819 [0x7f0032b05800] DEBUG - Opening 2 database sessions to library (com.plexapp.plugins.library.blobs), SQLite 3.13.0, threadsafe=1
+Mar 23, 2018 15:14:24.821 [0x7f0032b05800] INFO - SQLITE3:0x10, 283, recovered 660 frames from WAL file /config/Library/Application Support/Plex Media Server/Plug-in Support/Databases/com.plexapp.plugins.library.blobs.db-wal
+Mar 23, 2018 15:14:24.827 [0x7f0032b05800] DEBUG - Running migrations.
+Mar 23, 2018 15:14:24.840 [0x7f0032b05800] ERROR - HttpServer: Error binding acceptor: Address already in use
+Mar 23, 2018 15:14:24.840 [0x7f0032b05800] ERROR - Error: Unable to set up server: listen: Address already in use (N5boost16exception_detail10clone_implINS0_19error_info_injectorINS_6system12system_errorEEEEE)
