@@ -122,7 +122,7 @@ db: mongodb://wikidb:27017/wiki
 # ---------------------------------------------------------------------
 
 git:
-  url: https://github.com/favaron88/wiki
+  url: https://github.com/jfavaron/favawiki
   branch: master
   auth:
 
