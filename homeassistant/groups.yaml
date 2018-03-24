@@ -1,0 +1,63 @@
+#################################################################
+## Groups
+#################################################################
+
+living:
+  name: Living Room
+  view: yes
+  icon: mdi:home-heart
+  entities:
+    - script.nail_time_1
+    - script.watch_tv_lights
+    - light.lamp_1
+    - light.lamp_2
+    - light.living_room
+    - light.tv_light
+    - switch.subwoofer
+
+office:
+  name: Office
+  view: yes
+  icon: mdi:desktop-tower
+  entities:
+    - script.blue_desk
+    - script.orange_desk
+    - script.green_desk
+    - script.vice
+    - script.office_concentrate
+    - light.desk
+    - light.overhead
+    - light.office
+
+bedroom:
+  name: Bedroom
+  view: yes
+  icon: mdi:hotel
+  entities:
+    - script.nail_time_2
+    - script.bed_time_zabe
+    - script.bed_time_jimmy
+
+temperature:
+  name: Nest
+  view: yes
+  icon: mdi:weather-cloudy
+  entities:
+    - binary_sensor.hallway_thermostat_fan
+    - binary_sensor.hallway_thermostat_has_leaf
+    - climate.hallway
+    - binary_sensor.hallway_thermostat_online
+    - sensor.hallway_thermostat_humidity
+
+light_group_zabe_bed_time:
+  name: Zabe Bed Time Lights
+  entities:
+    - light.living_room
+    - light.dining
+    - light.bedroom
+
+light_group_jimmy_bed_time:
+  name: Jimmy Bed Time Lights
+  entities:
+    - light.hallway
+    - light.office

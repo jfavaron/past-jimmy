@@ -1,0 +1,61 @@
+#################################################
+## Customize
+#################################################
+
+  #################################################
+  ## Temperature
+  #################################################
+  binary_sensor.hallway_thermostat_fan:
+    friendly_name: Fan
+    icon: mdi:fan
+  binary_sensor.hallway_thermostat_has_leaf:
+    friendly_name: Leaf
+    icon: mdi:leaf
+  binary_sensor.hallway_thermostat_online:
+    friendly_name: Online
+    icon: mdi:wifi
+  sensor.hallway_thermostat_humidity:
+    friendly_name: Humid
+  
+  #################################################
+  ## Office Scripts
+  #################################################
+  script.blue_desk:
+    friendly_name: Desk Blue
+    icon: mdi:rocket
+  script.orange_desk:
+    friendly_name: Desk Orange
+    icon: mdi:rocket
+  script.green_desk:
+    friendly_name: Desk Green
+    icon: mdi:gamepad-variant
+  script.vice:
+    friendly_name: Miami Vice
+    icon: mdi:beach
+  script.office_concentrate:
+    friendly_name: Bright White
+    icon: mdi:brightness-5
+
+  #################################################
+  ## Living Room Scripts
+  #################################################
+  script.nail_time_1:
+    friendly_name: Nail Time
+    icon: mdi:hand-pointing-right
+  script.watch_tv_lights:
+    friendly_name: TV Lighting
+    icon: mdi:television
+
+  #################################################
+  ## Bedroom Scripts
+  #################################################
+  script.nail_time_2:
+    friendly_name: Nail Time
+    icon: mdi:hand-pointing-right
+  script.bed_time_zabe:
+    friendly_name: Zabe Bed Time
+    icon: mdi:sleep
+  script.bed_time_jimmy:
+    friendly_name: Jimmy Bed Time
+    icon: mdi:sleep
+

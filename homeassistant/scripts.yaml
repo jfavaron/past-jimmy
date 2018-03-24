@@ -1,0 +1,80 @@
+#################################################
+## Office
+#################################################
+blue_desk:
+  sequence:
+    - service: hue.hue_activate_scene
+      data:
+        group_name: "Office"
+        scene_name: "Blue desk"
+
+orange_desk:
+  sequence:
+    - service: hue.hue_activate_scene
+      data:
+        group_name: "Office"
+        scene_name: "Orange desk"
+
+green_desk:
+  sequence:
+    - service: hue.hue_activate_scene
+      data:
+        group_name: "Office"
+        scene_name: "Green desk"
+
+vice:
+  sequence:
+    - service: hue.hue_activate_scene
+      data:
+        group_name: "Office"
+        scene_name: "Vice"
+
+office_concentrate:
+  sequence:
+    - service: hue.hue_activate_scene
+      data:
+        group_name: "Office"
+        scene_name: "Concentrate"
+
+#################################################
+## Living Room
+#################################################
+nail_time_1:
+  sequence:
+    - service: hue.hue_activate_scene
+      data:
+        group_name: "Living Room"
+        scene_name: "Concentrate"
+
+watch_tv_lights:
+  sequence:
+    - service: hue.hue_activate_scene
+      data:
+        group_name: "Living Room"
+        scene_name: "Relax"
+
+#################################################
+## Bedroom
+#################################################
+bed_time_zabe:
+  sequence:
+    - service: hue.hue_activate_scene
+      data:
+        group_name: "Hallway"
+        scene_name: "Nightlight"
+    - service: light.turn_off
+      entity_id: group.light_group_zabe_bed_time
+
+bed_time_jimmy:
+  sequence:
+    - service: light.turn_off
+      entity_id: group.light_group_zabe_bed_time
+    - service: light.turn_off
+      entity_id: group.light_group_jimmy_bed_time
+
+nail_time_2:
+  sequence:
+    - service: hue.hue_activate_scene
+      data:
+        group_name: "Bedroom"
+        scene_name: "Concentrate"
