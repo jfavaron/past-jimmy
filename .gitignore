@@ -2,3 +2,7 @@ wiki/data/
 plex/config/
 couchpotato/config/
 homeassistant/home-*
+homeassistant/.HA_VERSION
+homeassistant/.uuid
+homeassistant/entity_registry.yaml
+
